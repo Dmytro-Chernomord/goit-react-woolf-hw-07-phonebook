@@ -59,7 +59,7 @@ export const ContactForm = () => {
         title="Phone number must be digits and can contain spaces, dashes, parentheses and can start with +"
         required
       />
-      <button className={classes.button} type="submit">Add Contact <img className={classes.svg} width='24' height='24' src={svg} alt='add'/></button>
+      <button className={classes.button} type="submit">Add Contact <img className={classes.svg} width='16' height='16' src={svg} alt='add'/></button>
     </form>
   );
 };

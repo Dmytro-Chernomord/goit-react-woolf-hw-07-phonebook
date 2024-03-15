@@ -18,16 +18,12 @@
   align-items: center;
   justify-content: space-between;
   margin-left: auto;
-  background-color: rgba(100, 22, 22, 0.74);
+  background-color: rgb(100, 22, 22);
   color: #fff;
   border: none;
   border-radius: 4px;
   padding: 5px 10px;
   cursor: pointer;
-}
-
-.svg {
-  margin-left: 10px;
 }
 
 .names {

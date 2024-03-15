@@ -4,7 +4,4 @@
     flex-direction: column;
     width: 500px;
     margin: auto;
-  input {
-    max-width: 400px;
-  }
 }

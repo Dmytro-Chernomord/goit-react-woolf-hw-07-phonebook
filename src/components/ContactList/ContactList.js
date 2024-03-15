@@ -19,7 +19,6 @@ export const ContactList = () => {
               className={classes.button}
               onClick={() => dispatch(deleteContact(contact.id))}
             >
-              Delete
               <img className={classes.svg} width='24' height='24' src={svg} alt='delete'/>
             </button>
           </li>
