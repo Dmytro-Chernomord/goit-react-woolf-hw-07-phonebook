@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/goit-react-woolf-hw-07-phonebook/static/css/main.6c368546.css",
-    "main.js": "/goit-react-woolf-hw-07-phonebook/static/js/main.f3fec417.js",
+    "main.css": "/goit-react-woolf-hw-07-phonebook/static/css/main.15c4556a.css",
+    "main.js": "/goit-react-woolf-hw-07-phonebook/static/js/main.c1111451.js",
     "static/media/contacts-svgrepo-com.svg": "/goit-react-woolf-hw-07-phonebook/static/media/contacts-svgrepo-com.0fc0e481b71abc3f741f5ff5677eda01.svg",
     "index.html": "/goit-react-woolf-hw-07-phonebook/index.html",
     "static/media/delete-2-svgrepo-com.svg": "/goit-react-woolf-hw-07-phonebook/static/media/delete-2-svgrepo-com.f7bf269eededb387547c7498fcc80b87.svg",
-    "main.6c368546.css.map": "/goit-react-woolf-hw-07-phonebook/static/css/main.6c368546.css.map",
-    "main.f3fec417.js.map": "/goit-react-woolf-hw-07-phonebook/static/js/main.f3fec417.js.map"
+    "main.15c4556a.css.map": "/goit-react-woolf-hw-07-phonebook/static/css/main.15c4556a.css.map",
+    "main.c1111451.js.map": "/goit-react-woolf-hw-07-phonebook/static/js/main.c1111451.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c368546.css",
-    "static/js/main.f3fec417.js"
+    "static/css/main.15c4556a.css",
+    "static/js/main.c1111451.js"
   ]
 }
